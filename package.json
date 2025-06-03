@@ -9,7 +9,7 @@
      "restart": "pm2 restart Queen-Nimasha-Md"
     },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.6.0",              
+    "@whiskeysockets/baileys": "npm:baileys",  
     "@adiwajshing/keyed-db": "^0.2.4",
     "qrcode": "^1.5.3",
     "awesome-phonenumber": "^2.64.0",
